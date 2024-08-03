@@ -1,3 +1,3 @@
 # app.py
 def main():
-    print("Hello from feature A")
+    print("Hello from feature A & B")
